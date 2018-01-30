@@ -20,6 +20,6 @@ Some informative resources for "Technical Writing" are listed here. Please feel 
 
 ## Books
 
-1.  [**The Elements of Style, Fourth Edition 4th Edition**](https://www.amazon.com/BUGS-Writing-Revised-Guide-Debugging/dp/020137921X) by William Strunk Jr.
+1.  [**The Elements of Style, Fourth Edition 4th Edition**](http://a.co/ihYsuIG) by William Strunk Jr.
   - This book is often suggested to undergraduate student in universities as it's short and easy read. I compiled a summary of the rules with examples for my technical writing course as an undergraduate. You can avail it here if you want to. However, the main book is _A L W A Y S_ preferred if you are not running short of time!
 2.  [**BUGS in Writing, Revised Edition: A Guide to Debugging Your Prose (2nd Edition)**](https://www.amazon.com/BUGS-Writing-Revised-Guide-Debugging/dp/020137921X) by Lyn Dupre. 
